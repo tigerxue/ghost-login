@@ -12,8 +12,7 @@
 2. [weibo.cn](http://weibo.cn) (验证码识别困难，建议不要用这种方式) 和 [mweibo.cn](http://m.weibo.cn) (推荐使用)
 3. [微博网页版](http://weibo.com)
 4. [知乎](http://zhihu.com)
-5. WebQQ by [opdss](http://ui.ptlogin2.qq.com/cgi-bin/login?appid=46000101&style=8&lang=&low_login=1&hide_title_bar=1&hide_close_icon=1&daid=6&hln_css=http://mat1.gtimg.com/www/mb/images/logo244x100.png&s_url=http%3A%2F%2Fw.t.qq.com%2Ftouch) 还有点问题
-6. Webweixin by [opdss](https://github.com//opdss)
+5. [WebQQ][opdss](http://ui.ptlogin2.qq.com/cgi-bin/login?appid=46000101&style=8&lang=&low_login=1&hide_title_bar=1&hide_close_icon=1&daid=6&hln_css=http://mat1.gtimg.com/www/mb/images/logo244x100.png&s_url=http%3A%2F%2Fw.t.qq.com%2Ftouch) 还有点问题
 
 ##Todolist
 0. **重构代码，增加可扩展性**
