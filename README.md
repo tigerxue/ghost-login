@@ -1,6 +1,9 @@
 #Ghost-login
 
+#使用帮助详见
+[liinux](http://www.cnblogs.com/liinux)
 ## 模拟登录一些常见的网站
+
 
 主要基于以下的 Java的第三 library 
 1. [httpclient](http://hc.apache.org/downloads.cgi) 处理登录
