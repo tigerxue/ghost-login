@@ -8,11 +8,11 @@
 3. [bouncy castle](http://www.bouncycastle.org/) 处理加密问题
 
 ## Done
-1. [百度](https://www.baidu.com)
+1. [百度](https://www.baidu.com)(已近实现)
 2. [新浪微博](https://passport.weibo.cn/signin/login?entry=mweibo&res=wel&wm=3349&r=http%3A%2F%2Fm.weibo.cn%2F%3Fjumpfrom
 %3Dwapv4%26tip%3D1) (验证码识别困难，建议不要用这种方式)
-3. [腾讯微博][opdss](http://w.t.qq.com/touch) 还有点问题
-4. [知乎](https://www.zhihu.com/#signin)
+3. [腾讯微博](http://w.t.qq.com/touch) (还有点问题)
+4. [知乎](https://www.zhihu.com/#signin)(已近实现)
 
 
 ##Todolist
