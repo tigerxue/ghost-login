@@ -6,9 +6,10 @@
 
 
 主要基于以下的 Java的第三 library 
-1. [httpclient](http://hc.apache.org/downloads.cgi) 处理登录
-2. [tesseract-ocr](https://github.com/tesseract-ocr) 处理验证码
-3. [bouncy castle](http://www.bouncycastle.org/) 处理加密问题
+1. [httpclient](http://hc.apache.org/downloads.cgi) HTTP请求以及响应
+2. [Selenium](http://docs.seleniumhq.org/download/) 模拟自动登录
+3. [tesseract-ocr](https://github.com/tesseract-ocr) 验证码识别
+4. [bouncy castle](http://www.bouncycastle.org/) 加密解密
 
 ## Done
 1. [百度](https://www.baidu.com)(已经实现)
