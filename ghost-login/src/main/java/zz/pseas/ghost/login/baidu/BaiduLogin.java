@@ -33,7 +33,11 @@ import java.util.Map;
 
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
-
+/**   
+* @date 2016年9月14日 下午9:26:00 
+* @version   
+* @since JDK 1.8  
+*/
 public class BaiduLogin {
 
 	public static String getBaiduCookie(String username,String password) throws IOException{

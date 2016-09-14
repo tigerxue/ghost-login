@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	
+	<driver>
+		<name>webdriver.chrome.driver</name>
+		<value>./seleunim-driver/chromedriver.exe</value>
+	</driver>
+</config>

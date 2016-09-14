@@ -20,7 +20,11 @@ package zz.pseas.ghost.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+/**   
+* @date 2016年9月14日 下午9:26:00 
+* @version   
+* @since JDK 1.8  
+*/
 public class CodeUtils {
 
 	public static String getcode(String string,String name){

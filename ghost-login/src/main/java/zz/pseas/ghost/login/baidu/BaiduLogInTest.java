@@ -21,7 +21,11 @@ package zz.pseas.ghost.login.baidu;
 import java.io.IOException;
 
 import javax.swing.JOptionPane;
-
+/**   
+* @date 2016年9月14日 下午9:26:00 
+* @version   
+* @since JDK 1.8  
+*/
 public class BaiduLogInTest {
 
 	/**

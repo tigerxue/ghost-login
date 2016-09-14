@@ -18,7 +18,11 @@
  */
 package zz.pseas.ghost.utils;
 
-
+/**   
+* @date 2016年9月14日 下午9:26:00 
+* @version   
+* @since JDK 1.8  
+*/
 import java.io.IOException;
 import java.net.SocketTimeoutException;
 import java.net.UnknownHostException;
