@@ -1,7 +1,7 @@
 #Ghost-login
 
 #使用帮助详见
-[liinux](http://www.cnblogs.com/liinux)
+[EliteQing](http://www.cnblogs.com/liinux)
 ## 模拟登录一些常见的网站
 
 
