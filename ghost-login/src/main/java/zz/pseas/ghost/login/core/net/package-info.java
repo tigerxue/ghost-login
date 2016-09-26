@@ -21,4 +21,4 @@
 * @version   
 * @since JDK 1.8  
 */
-package zz.pseas.ghost.core.net;
+package zz.pseas.ghost.login.core.net;

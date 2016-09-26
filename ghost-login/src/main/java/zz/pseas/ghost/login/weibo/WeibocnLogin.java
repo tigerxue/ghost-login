@@ -32,9 +32,12 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
-/**
- * Created by pl on 15-7-19.
- */
+/**   
+* @date 2016年9月14日 下午9:26:00 
+* @version   
+* @since JDK 1.8  
+*/
+
 public class WeibocnLogin {
 	public static void main(String[] args) throws NullPointerException {
 
