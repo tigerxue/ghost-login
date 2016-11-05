@@ -1,7 +1,8 @@
 #Ghost-login
 
-#使用帮助详见
+#使用帮助
 [EliteQing](http://www.cnblogs.com/liinux)
+[liinnux](https://liinnux.github.io/ghost-login/)
 ## 模拟登录一些常见的网站
 
 
@@ -17,8 +18,7 @@
 3. [京东](http://www.jd.com/)(已经实现)
 4. [淘宝](https://www.taobao.com/)(还有点问题)
 5. [支付宝](https://www.alipay.com/)(还有点问题)
-6. [新浪微博](https://passport.weibo.cn/signin/login?entry=mweibo&res=wel&wm=3349&r=http%3A%2F%2Fm.weibo.cn%2F%3Fjumpfrom
-%3Dwapv4%26tip%3D1) (已经实现)
+6. [新浪微博](https://passport.weibo.cn/signin/login?entry=mweibo&res=wel&wm=3349&r=http%3A%2F%2Fm.weibo.cn%2F%3Fjumpfrom%3Dwapv4%26tip%3D1) (已经实现)
 5. [新浪邮箱](http://mail.sina.com.cn/)(待实现)
 5. [QQ邮箱](https://mail.qq.com/cgi-bin/loginpage)(待实现)
 7. [QQ微博](http://w.t.qq.com/touch) (已经实现)
@@ -58,4 +58,4 @@
 
 ## 交流讨论
 
-1. 开源Java爬虫QQ交流群:322937592
+1. 开源Java爬虫QQ交流群:322937592(<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=e644359711b3c46298f98f43b75b09f92b83ed354dd5afd25f2e1de07ba80b18"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="数据分析&amp;网络爬虫" title="数据分析&amp;网络爬虫"></a>)
