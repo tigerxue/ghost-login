@@ -58,4 +58,5 @@
 
 ## 交流讨论
 
-1. 开源Java爬虫QQ交流群:322937592(<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=e644359711b3c46298f98f43b75b09f92b83ed354dd5afd25f2e1de07ba80b18"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="数据分析&amp;网络爬虫" title="数据分析&amp;网络爬虫"></a>)
+1. 开源Java爬虫QQ交流群:322937592
+2. 欢迎讨论交流:<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=e644359711b3c46298f98f43b75b09f92b83ed354dd5afd25f2e1de07ba80b18"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="数据分析&amp;网络爬虫" title="数据分析&amp;网络爬虫"></a>
