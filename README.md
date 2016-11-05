@@ -62,4 +62,4 @@
 2. 欢迎讨论交流<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=e644359711b3c46298f98f43b75b09f92b83ed354dd5afd25f2e1de07ba80b18"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="数据分析&amp;网络爬虫" title="数据分析&amp;网络爬虫"></a>
 ![alt text][id] 
 
-[id]: https://git.oschina.net/liinux/ghost-login/attach_files/download?i=68662&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F00%2F90%2FPaAvDFgdcgGAJF5fAABZlLePODQ278.png%3Ftoken%3D55caaad9b32fe88796e5e727e378eb4c%26ts%3D1478324688%26attname%3Dqq-group-322937592.png "Title"
+[id]: https://git.oschina.net/liinux/ghost-login/attach_files/download?i=68688&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F00%2F90%2FPaAvDFgd3LGAOr-HAAAhOWgubTM458.png%3Ftoken%3Dea0a1349cf91f60aea8042a3d876a64c%26ts%3D1478352018%26attname%3Dqq1-group-322937592.png "Title"
